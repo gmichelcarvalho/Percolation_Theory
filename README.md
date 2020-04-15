@@ -2,4 +2,4 @@
 Simulation of a forest fire in a lattice
 
 
-<a href="https://imgflip.com/gif/3wpakl"> <img src="https://i.imgflip.com/3wpakl.gif" title =  "made at imgflip.com"/></a>
+<a href="https://github.com/gmichelcarvalho/Percolation_Theory/blob/master/ForestFire.gif <img src="https://github.com/gmichelcarvalho/Percolation_Theory/blob/master/ForestFire.gif" title =  "made by Michel Carvalho"/></a>
